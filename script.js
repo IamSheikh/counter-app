@@ -1,4 +1,4 @@
-const count = 0; // count variable
+let count = 0; // count variable
 
 const counter = document.getElementById("counter"); // counter element
 
