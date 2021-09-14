@@ -11,3 +11,7 @@ h1 {
     border: none;
     cursor: pointer;
 }
+
+.btn:hover {
+    background-color: black;
+}
