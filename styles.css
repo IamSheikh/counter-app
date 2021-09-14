@@ -9,4 +9,5 @@ h1 {
 .btn {
     padding: 1rem;
     border: none;
+    cursor: pointer;
 }
