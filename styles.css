@@ -5,3 +5,8 @@ body {
 h1 {
     color: blue;
 }
+
+.btn {
+    padding: 1rem;
+    border: none;
+}
